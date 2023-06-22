@@ -1,10 +1,26 @@
-name: cookbook-dev
+name: ERA5_interactive
 channels:
   - conda-forge
 dependencies:
+  - python>=3.10
   - jupyter-book
   - jupyterlab
   - jupyter_server
+  - zarr
+  - xarray==2022.12.0
+  - geoviews
+  - datashader
+  - matplotlib
+  - panel
+  - pandas
+  - requests
+  - pathlib
+  - metpy
+  - scipy
+  - geopandas
+  - streamlit
+  - gcsfs
+  - cf_xarray
   - pip
   - pip:
       - sphinx-pythia-theme
