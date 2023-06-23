@@ -1,6 +1,7 @@
 format: jb-book
 root: README
 parts:
-  - caption: Introduction
+  - caption: Visualization notebooks
     chapters:
-      - file: notebooks/notebook-template
+      - file: notebooks/01BasicVisualization
+      - file: notebooks/02InteractiveVisualization

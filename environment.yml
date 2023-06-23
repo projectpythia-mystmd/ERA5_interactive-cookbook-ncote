@@ -18,7 +18,6 @@ dependencies:
   - metpy
   - scipy
   - geopandas
-  - streamlit
   - gcsfs
   - cf_xarray
   - pip
