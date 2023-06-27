@@ -12,6 +12,6 @@ authors:
     website: https://github.com/Michael-Barletta
     orcid: https://orcid.org/0000-0003-3318-7601
   - name: "ARCO ERA-5 Cookbook contributors" # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/ERA5_interactive/graphs/contributors"
+    website: "https://github.com/ProjectPythia/ERA5_interactive-cookbook/graphs/contributors"
 title: "ARCO ERA-5 Interactive Visualization Cookbook"
 abstract: "A cookbook to interactively explore and visualize ERA-5 data in ARCO format."
