@@ -4,16 +4,7 @@
 title: ARCO ERA-5 Interactive Visualization
 author: Michael Barletta and Kevin Tyle
 logo: notebooks/images/logos/pythia_logo-white-rtext.svg
-email: projectpythia@ucar.edu
 copyright: "2023"
-
-description: ARCO ERA-5 Analysis and Visualization
-thumbnail: thumbnail.png
-tags:
-  domains:
-    - meteorology
-  packages:
-    - zarr, geoviews, panel, xarray
 
 execute:
   # To execute notebooks via a Binder instead, replace 'cache' with 'binder'

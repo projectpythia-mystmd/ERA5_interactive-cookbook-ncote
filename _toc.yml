@@ -1,6 +1,9 @@
 format: jb-book
 root: README
 parts:
+  - caption: Preamble
+    chapters:
+      - file: notebooks/how-to-cite
   - caption: Visualization notebooks
     chapters:
       - file: notebooks/01BasicVisualization

@@ -1,0 +1,9 @@
+thumbnail: thumbnail.png
+tags:
+  domains:
+    - meteorology
+  packages:
+    - zarr
+    - geoviews
+    - panel
+    - xarray
