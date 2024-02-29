@@ -1,8 +1,8 @@
-name: ERA5_interactive
+name: ERA5-interactive
 channels:
   - conda-forge
 dependencies:
-  - python>=3.10
+  - python<3.12
   - jupyter-book
   - jupyterlab
   - jupyter_server
@@ -20,6 +20,15 @@ dependencies:
   - geopandas
   - gcsfs
   - cf_xarray
+  - sphinx==4.5.0
+  - sphinxcontrib-applehelp<1.0.7 
+  - sphinxcontrib-devhelp<1.0.5 
+  - sphinxcontrib-htmlhelp<2.0.4 
+  - sphinxcontrib-qthelp<1.0.6 
+  - sphinxcontrib-serializinghtml<1.1.9
+  - pydata-sphinx-theme<=0.8
+  - jsonschema-with-format-nongpl<4.19.1
+  - docutils==0.16
   - pip
   - pip:
       - sphinx-pythia-theme
