@@ -1,4 +1,4 @@
-name: ERA5-interactive
+name: ERA5_interactive
 channels:
   - conda-forge
 dependencies:
