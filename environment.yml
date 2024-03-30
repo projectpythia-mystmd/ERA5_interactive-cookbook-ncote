@@ -21,6 +21,4 @@ dependencies:
   - geopandas
   - gcsfs
   - cf_xarray
-  - pip
-  - pip:
-      - git+https://github.com/ProjectPythia/sphinx-pythia-theme.git@theme-update
+  - sphinx-pythia-theme
