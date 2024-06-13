@@ -8,3 +8,8 @@ parts:
     chapters:
       - file: notebooks/01BasicVisualization
       - file: notebooks/02InteractiveVisualization
+      - file: notebooks/03_intro_to_interactive_viz.ipynb
+
+  - caption: Preprocessing Notebooks for NCAR RDA
+    chapters:
+      - file: notebooks/01_data_preprocessing.ipynb
