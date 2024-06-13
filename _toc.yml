@@ -12,3 +12,4 @@ parts:
     chapters:
       - file: notebooks/01_data_preprocessing.ipynb
       - file: notebooks/02_era5_anomaly.ipynb
+      - file: notebooks/03_intro_to_interactive_viz.ipynb
