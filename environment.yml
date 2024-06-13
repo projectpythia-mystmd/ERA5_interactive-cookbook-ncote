@@ -22,3 +22,6 @@ dependencies:
   - gcsfs
   - cf_xarray
   - sphinx-pythia-theme
+  - hvplot
+  - spatialpandas
+  - watchfiles
