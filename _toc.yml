@@ -10,5 +10,5 @@ parts:
       - file: notebooks/02InteractiveVisualization
   - caption: Interactive Dashboard
     chapters:
-      - file: notebooks/dashboard/01_data_preprocessing.ipynb
-      - file: notebooks/dashboard/02_era5_anomaly.ipynb
+      - file: notebooks/01_data_preprocessing.ipynb
+      - file: notebooks/02_era5_anomaly.ipynb
