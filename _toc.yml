@@ -14,3 +14,4 @@ parts:
   - caption: Preprocessing Notebooks for NCAR RDA
     chapters:
       - file: notebooks/05_data_preprocessing
+      - file: notebooks/06_era5_anomaly
