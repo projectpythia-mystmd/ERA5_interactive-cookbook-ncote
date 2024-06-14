@@ -9,7 +9,7 @@ parts:
       - file: notebooks/01BasicVisualization
       - file: notebooks/02InteractiveVisualization
       - file: notebooks/03_hvplot
-      - file: notebooks/03_dashboard
+      - file: notebooks/04_dashboard
 
   - caption: Preprocessing Notebooks for NCAR RDA
     chapters:
