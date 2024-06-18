@@ -4,12 +4,14 @@ parts:
   - caption: Preamble
     chapters:
       - file: notebooks/how-to-cite
-  - caption: Visualization notebooks
+  - caption: Visualization Notebooks
     chapters:
       - file: notebooks/01BasicVisualization
       - file: notebooks/02InteractiveVisualization
-      - file: notebooks/03_intro_to_interactive_viz.ipynb
+      - file: notebooks/03_hvplot
+      - file: notebooks/04_dashboard
 
   - caption: Preprocessing Notebooks for NCAR RDA
     chapters:
-      - file: notebooks/01_data_preprocessing.ipynb
+      - file: notebooks/05_data_preprocessing
+      - file: notebooks/06_era5_anomaly
