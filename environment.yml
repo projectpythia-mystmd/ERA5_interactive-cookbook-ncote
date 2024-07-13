@@ -2,7 +2,7 @@ name: ERA5_interactive
 channels:
   - conda-forge
 dependencies:
-  - python<3.12
+  - python
   - jupyter-book
   - jupyterlab
   - jupyter_server
@@ -25,3 +25,4 @@ dependencies:
   - hvplot
   - spatialpandas
   - watchfiles
+  - mystmd
